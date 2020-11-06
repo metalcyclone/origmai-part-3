@@ -1,0 +1,49 @@
+
+
+.dragon{
+background-color: rgb(55, 78, 108);
+display:flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding-left: 40px;
+padding-top: 30px;
+margin-top: 20px;
+margin-left: -20px;
+}
+
+.foxes{
+   background-color: rgb(154, 77, 184);
+   display:flex;
+    justify-content: space-between; 
+    align-items: flex-start;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    margin-left: -20px;
+    
+}
+
+.rabbit{
+    background-color: deeppink;
+    display:flex;
+    justify-content:space-between;
+    align-items: flex-end;
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-left: -20px;
+}
+
+.bird{
+   background-color: firebrick;
+   display:flex;
+    justify-content: space-between; 
+    align-items: stretch;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    margin-bottom: 37px;
+    margin-right: 40px;
+}
+
+.footer{
+    margin-right: 100px;
+
+}
